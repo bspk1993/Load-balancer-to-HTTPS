@@ -1,6 +1,6 @@
 # Load-balancer-to-HTTPS
 
-HTTPS to HTTPS
+HTTP to HTTPS
 
 req SSL certificate(free in AWS)
 
